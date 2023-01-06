@@ -1,8 +1,8 @@
 # Project UAS Bahasa Pemrograman
 
-Nama    :   Ghufron Malik
-NIM     :   312210559
-Kelas   :   TI.22.B2
+Nama    :   Ghufron Malik</br>
+NIM     :   312210559</br>
+Kelas   :   TI.22.B2</br>
 
 
 | NO |      DAFTAR ISI      |   LINK    |
@@ -30,7 +30,7 @@ Berikut adalah Source Code dari program di atas
 
 # 2. INPUT NILAI
 
-Buat file `input_nilai.py` pada package view yang sudah di buat sbelumnya.
+Selanjutnya membuat module `input_nilai.py` pada package view yang sudah di buat sebelumnya. Bila sudah relax sejenak seruput kopi yang ada. Next.
 ### A. Source Code
 Berikut adalah Source Code dari program di atas
 ![img3](image/input.png)
@@ -44,9 +44,7 @@ Berikut adalah Source Code dari program di atas
 Sedangkan fungsi `def` dan module masih sama seperti pada penjelasan pertama.
 
 # 3. VIEW NILAI
-
-Buat module `view_nilai.py` pada package view yang sudah di buat sbelumnya.
-
+Untuk membuat module `view_nilai.py` pada package view yang sudah di buat sebelumnya.
 ### A. Source Code
 Berikut adalah Source Code dari program di atas
 ![img4](image/view.png)
@@ -60,7 +58,7 @@ from model.daftar_nilai import data
 ```py
 from tabulate import tabulate
 ``` 
-- Berfungsi untuk mempermudah user dalam membuat table yang di inginkan. Sedangkan `tablefmt=double_grid` berfungsi untuk membuat model atau jenis table sesuai yang diinginkan user.
+- Berfungsi untuk mempermudah user dalam membuat table yang di inginkan. Sedangkan `tablefmt="double_grid"` berfungsi untuk membuat model atau jenis table sesuai yang diinginkan user.
 
 # 4. MAIN
 
@@ -86,7 +84,36 @@ fungsi `if-else` untuk mengambil kondisi tertentu dan memeriksa apakah kondisiny
 
 ### Tambah Data
 - Dokumentasi program tambah data
+proses eksekusi
 ![img7](image/)
+setelah eksekusi
+![img8](image/11.png)
+
+### Ubah Data
+- Dokumentasi program ubah data
+proses eksekusi
+![img8](image/3.png)
+setelah eksekusi
+![img9](image/33.png)
+
+### Cari Data
+- Dokumentasi program cari data
+![img10](image/4.png)
+
+### Menampilkan Semua Data
+- Dokumentasi program menampilkan data
+![img11](image/5.png)
+
+### Hapus Data
+- Dokumentasi program Hapus data
+![img12](image/2.png)
+
+### Keluar Program
+- Dokumentasi keluar program
+![img13](image/6.png) 
+
+# HAPPY NIC DAY :)
+
 
 
 
