@@ -85,7 +85,7 @@ fungsi `if-else` untuk mengambil kondisi tertentu dan memeriksa apakah kondisiny
 ### Tambah Data
 - Dokumentasi program tambah data
 proses eksekusi
-![img7](image/)
+![img7](image/1.png)
 setelah eksekusi
 ![img8](image/11.png)
 
