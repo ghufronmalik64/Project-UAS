@@ -19,7 +19,7 @@ Kelas   :   TI.22.B2</br>
 
 # 1. DAFTAR NILAI
 
-Untuk membuat file `daftar_nilai.py` kita harus membuat package yang berisi file seperti dalam ketentuan di atas terlebih dahulu.
+Langkah pertama adalah membuat file `daftar_nilai.py`. Sebelumnya kita harus membuat package yang berisi module seperti dalam ketentuan program di atas terlebih dahulu.
 ### A. Source Code
 Berikut adalah Source Code dari program di atas
 ![img2](image/daftar_nilai.png)
@@ -30,7 +30,7 @@ Berikut adalah Source Code dari program di atas
 
 # 2. INPUT NILAI
 
-Selanjutnya membuat module `input_nilai.py` pada package view yang sudah di buat sebelumnya. Bila sudah relax sejenak seruput kopi yang ada. Next.
+Selanjutnya membuat module `input_nilai.py` pada package view yang sudah di buat. Mungkin sedikit boring disini, coba tenangkan hati dengan segelas kopi.
 ### A. Source Code
 Berikut adalah Source Code dari program di atas
 ![img3](image/input.png)
@@ -44,7 +44,7 @@ Berikut adalah Source Code dari program di atas
 Sedangkan fungsi `def` dan module masih sama seperti pada penjelasan pertama.
 
 # 3. VIEW NILAI
-Untuk membuat module `view_nilai.py` pada package view yang sudah di buat sebelumnya.
+Lalu buat module `view_nilai.py` pada package view yang sudah di buat sebelumnya.
 ### A. Source Code
 Berikut adalah Source Code dari program di atas
 ![img4](image/view.png)
@@ -97,6 +97,7 @@ proses eksekusi
 ![img8](image/3.png)
 
 setelah eksekusi
+
 ![img9](image/33.png)
 
 
@@ -112,14 +113,16 @@ setelah eksekusi
 
 ### Hapus Data
 - Dokumentasi program Hapus data
+
 ![img12](image/2.png)
 
 
 ### Keluar Program
 - Dokumentasi keluar program
+
 ![img13](image/6.png) 
 
-# HAPPY NIC DAY :)
+# HAPPY NICE DAY :)
 
 
 
