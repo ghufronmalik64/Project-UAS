@@ -85,10 +85,9 @@ fungsi `if-else` untuk mengambil kondisi tertentu dan memeriksa apakah kondisiny
 ### Tambah Data
 - Dokumentasi program tambah data
 proses eksekusi
-
 ![img7](image/1.png)
 
-setelah eksekusi
+- setelah eksekusi
 ![img8](image/11.png)
 
 ### Ubah Data
@@ -96,26 +95,21 @@ setelah eksekusi
 proses eksekusi
 ![img8](image/3.png)
 
-setelah eksekusi
-
+- setelah eksekusi
 ![img9](image/33.png)
-
 
 ### Cari Data
 - Dokumentasi program cari data
 ![img10](image/4.png)
 
-
 ### Menampilkan Semua Data
 - Dokumentasi program menampilkan data
 ![img11](image/5.png)
-
 
 ### Hapus Data
 - Dokumentasi program Hapus data
 
 ![img12](image/2.png)
-
 
 ### Keluar Program
 - Dokumentasi keluar program
