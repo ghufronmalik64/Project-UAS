@@ -117,7 +117,7 @@ proses eksekusi</br>
 ![img13](image/6.png) </br>
 
 </br>
-Kembali ke atas   ->   |[Click](https://github.com/ghufronmalik64/Project-UAS#1-DAFTAR-NILAI)|
+Kembali ke atas     [Click](https://github.com/ghufronmalik64/Project-UAS#1-DAFTAR-NILAI)
 
 # HAPPY NICE DAY :)
 
