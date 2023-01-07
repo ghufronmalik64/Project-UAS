@@ -7,7 +7,7 @@ Kelas   :   TI.22.B2</br>
 
 | NO |      DAFTAR ISI      |   LINK    |
 |----|----------------------|-----------|
-| 1  |Link YouTube          |[Click](https://github.com/ghufronmalik64/Project-UAS#1-DAFTAR -ILAI)|
+| 1  |Link YouTube          |[Click](https://github.com/ghufronmalik64/Maaf.git)|
 | 2  |Daftar Nilai          |[Click](https://github.com/ghufronmalik64/Project-UAS#1-DAFTAR-NILAI)|
 | 3  |Input Nilai           |[Click](https://github.com/ghufronmalik64/Project-UAS#2-INPUT-NILAI)|
 | 4  |View Nilai            |[Click](https://github.com/ghufronmalik64/Project-UAS#3-VIEW-NILAI)|
