@@ -7,11 +7,13 @@ Kelas   :   TI.22.B2</br>
 
 | NO |      DAFTAR ISI      |   LINK    |
 |----|----------------------|-----------|
-| 1  |Link YouTube          |[Click]|
-| 2  |Daftar Nilai          |[Click]|
-| 3  |Input Nilai           |[Click]|
-| 4  |View Nilai            |[Click]|
-| 5  |main.py               |[Click]|
+| 1  |Link YouTube          |[Click](https://github.com/ghufronmalik64/Project-UAS#1-DAFTAR -ILAI)|
+| 2  |Daftar Nilai          |[Click](https://github.com/ghufronmalik64/Project-UAS#1-DAFTAR-NILAI)|
+| 3  |Input Nilai           |[Click](https://github.com/ghufronmalik64/Project-UAS#2-INPUT-NILAI)|
+| 4  |View Nilai            |[Click](https://github.com/ghufronmalik64/Project-UAS#3-VIEW-NILAI)|
+| 5  |main.py               |[Click](https://github.com/ghufronmalik64/Project-UAS#4-MAIN)|
+| 6  |Hasil Output          |[Click](https://github.com/ghufronmalik64/Project-UAS#5-HASIL-UPUTPUT)|
+
 
 # Ketentuan Program
 ![img1](image/satu.png)
@@ -84,37 +86,35 @@ fungsi `if-else` untuk mengambil kondisi tertentu dan memeriksa apakah kondisiny
 
 ### Tambah Data
 - Dokumentasi program tambah data
-proses eksekusi
-![img7](image/1.png)
+proses eksekusi</br>
+![img7](image/1.png)</br>
 
-- setelah eksekusi
-![img8](image/11.png)
+- setelah eksekusi</br>
+![img8](image/11.png)</br>
 
 ### Ubah Data
 - Dokumentasi program ubah data
-proses eksekusi
-![img8](image/3.png)
+proses eksekusi</br>
+![img8](image/3.png)</br>
 
-- setelah eksekusi
-![img9](image/33.png)
+- setelah eksekusi</br>
+![img9](image/33.png)</br>
 
 ### Cari Data
-- Dokumentasi program cari data
-![img10](image/4.png)
+- Dokumentasi program cari data</br>
+![img10](image/4.png)</br>
 
 ### Menampilkan Semua Data
-- Dokumentasi program menampilkan data
-![img11](image/5.png)
+- Dokumentasi program menampilkan data</br>
+![img11](image/5.png)</br>
 
 ### Hapus Data
-- Dokumentasi program Hapus data
-
-![img12](image/2.png)
+- Dokumentasi program Hapus data</br>
+![img12](image/2.png)</br>
 
 ### Keluar Program
-- Dokumentasi keluar program
-
-![img13](image/6.png) 
+- Dokumentasi keluar program</br>
+![img13](image/6.png) </br>
 
 # HAPPY NICE DAY :)
 
