@@ -11,7 +11,7 @@ Kelas   :   TI.22.B2</br>
 | 2  |Daftar Nilai          |[Click](https://github.com/ghufronmalik64/Project-UAS#1-DAFTAR-NILAI)|
 | 3  |Input Nilai           |[Click](https://github.com/ghufronmalik64/Project-UAS#2-INPUT-NILAI)|
 | 4  |View Nilai            |[Click](https://github.com/ghufronmalik64/Project-UAS#3-VIEW-NILAI)|
-| 5  |main.py               |[Click](https://github.com/ghufronmalik64/Project-UAS#4-MAIN)|
+| 5  |MAIN                  |[Click](https://github.com/ghufronmalik64/Project-UAS#4-MAIN)|
 | 6  |Hasil Output          |[Click](https://github.com/ghufronmalik64/Project-UAS#5-HASIL-UPUTPUT)|
 
 
@@ -117,7 +117,7 @@ proses eksekusi</br>
 ![img13](image/6.png) </br>
 
 </br>
-Kembali ke atas   ->   [Click](https://github.com/ghufronmalik64/Project-UAS#1-DAFTAR-NILAI)|
+Kembali ke atas   ->   [Click](https://github.com/ghufronmalik64/Project-UAS#1-DAFTAR-NILAI)
 
 # HAPPY NICE DAY :)
 
