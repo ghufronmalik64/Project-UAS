@@ -8,7 +8,7 @@ Kelas   :   TI.22.B2</br>
 | NO |      DAFTAR ISI      |   LINK    |
 |----|----------------------|-----------|
 | 1  |File PDF              |[Click](https://github.com/ghufronmalik64/Project-UAS/blob/main/Project%20UAS%20Bahasa%20Pemrograman.pdf)
-| 2  |Link YouTube          |[Click](https://youtu.be/iwPXSHYqAuk)|
+| 2  |Link YouTube          |[Click](https://youtu.be/jBr1aiDy788)|
 | 3  |Daftar Nilai          |[Click](https://github.com/ghufronmalik64/Project-UAS#1-DAFTAR-NILAI)|
 | 4  |Input Nilai           |[Click](https://github.com/ghufronmalik64/Project-UAS#2-INPUT-NILAI)|
 | 5  |View Nilai            |[Click](https://github.com/ghufronmalik64/Project-UAS#3-VIEW-NILAI)|
