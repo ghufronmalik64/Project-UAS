@@ -7,12 +7,13 @@ Kelas   :   TI.22.B2</br>
 
 | NO |      DAFTAR ISI      |   LINK    |
 |----|----------------------|-----------|
-| 1  |Link YouTube          |[Click](https://github.com/ghufronmalik64/Maaf.git)|
-| 2  |Daftar Nilai          |[Click](https://github.com/ghufronmalik64/Project-UAS#1-DAFTAR-NILAI)|
-| 3  |Input Nilai           |[Click](https://github.com/ghufronmalik64/Project-UAS#2-INPUT-NILAI)|
-| 4  |View Nilai            |[Click](https://github.com/ghufronmalik64/Project-UAS#3-VIEW-NILAI)|
-| 5  |MAIN                  |[Click](https://github.com/ghufronmalik64/Project-UAS#4-MAIN)|
-| 6  |Hasil Output          |[Click](https://github.com/ghufronmalik64/Project-UAS#5-HASIL-UPUTPUT)|
+| 1  |File PDF              |[Click](file:///C:/Users/USER/OneDrive/Mata%20Kuliah%20Semester%201/Bahasa%20Pemrograman/Project%20UAS%20Bahasa%20Pemrograman.pdf)
+| 2  |Link YouTube          |[Click](https://youtu.be/iwPXSHYqAuk)|
+| 3  |Daftar Nilai          |[Click](https://github.com/ghufronmalik64/Project-UAS#1-DAFTAR-NILAI)|
+| 4  |Input Nilai           |[Click](https://github.com/ghufronmalik64/Project-UAS#2-INPUT-NILAI)|
+| 5  |View Nilai            |[Click](https://github.com/ghufronmalik64/Project-UAS#3-VIEW-NILAI)|
+| 6  |MAIN                  |[Click](https://github.com/ghufronmalik64/Project-UAS#4-MAIN)|
+| 7  |Hasil Output          |[Click](https://github.com/ghufronmalik64/Project-UAS#5-HASIL-UPUTPUT)|
 
 
 # Ketentuan Program
